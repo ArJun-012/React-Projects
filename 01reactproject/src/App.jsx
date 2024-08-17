@@ -1,10 +1,12 @@
 
-
+import Coffee from "./almec"
 function App() {
-  
-
   return (
-    <h1>Chai aur Reacty with Vite | Almec</h1>
+    <>
+    <Coffee/>
+    <h1>GYGYGYGSD</h1>
+    </>
+    
   )
 }
 
