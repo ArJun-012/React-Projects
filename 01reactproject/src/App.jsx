@@ -1,10 +1,11 @@
 
 import Coffee from "./almec"
 function App() {
+  const username = "Coffee with Almec"
   return (
     <>
     <Coffee/>
-    <h1>GYGYGYGSD</h1>
+    <h1>GYGYGYGSD {username}</h1>
     </>
     
   )
